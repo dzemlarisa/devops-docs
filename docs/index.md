@@ -12,3 +12,5 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://dzemlarisa.github.io/devops-docs/`.
+
+[Проверка битой ссылки](missing-page.md)
